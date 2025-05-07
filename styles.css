@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    height: 100vh;
+    height: auto;
     flex-direction: column;
     background-color: pink;
     margin: 0;
@@ -33,7 +33,7 @@ body {
     justify-content: center;
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    gap: 5px;
 }
 
 .footer {
